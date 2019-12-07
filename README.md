@@ -13,6 +13,8 @@ http://xunibidev.oss-us-west-1.aliyuncs.com/GitHub/ZTuoExchange-New/ZTuoExchange
 
 Giving support
 
+支付宝:sky_mall@126.com
+
 BTC：3AU5QZb591Vs63SAzdhebBZpQ6qj9GVCNm
 
 LTC：33tZdhUBqhB2s3JoUEsuBhHQ75taW12WAc
