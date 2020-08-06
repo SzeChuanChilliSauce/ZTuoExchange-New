@@ -1,20 +1,31 @@
 # ZTuoExchange-New
- ZTuoExchange-New
  
-QQ群：https://shang.qq.com/wpa/qunwpa?idkey=80efe8528fa54a30bc9b8c88eee497a4485dd95a3490b3471494f319db55accc
+## 项目资源
+## Project resources
+- [ZTuoExchange_framework](https://github.com/xunibidev/ZTuoExchange_framework)
 
-下载地址
+- [ZTuoExchange_web](https://github.com/xunibidev/ZTuoExchange_web)
 
-Download address
+- [ZTuoExchange_admin](https://github.com/xunibidev/ZTuoExchange_admin)
 
-http://xunibidev.oss-us-west-1.aliyuncs.com/GitHub/ZTuoExchange-New/ZTuoExchange-New.zip
+- [ZTuoExchange_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
 
+- [ZTuoExchange_android](https://github.com/xunibidev/ZTuoExchange_android)
 
-捐赠支持
+- [ZTuoExchange_ios](https://github.com/xunibidev/ZTuoExchange_ios)
 
-Giving support
+- [ZTuoExchange_操作手册](https://github.com/xunibidev/ZTuoExchange_caozuoshouce)
 
-支付宝:sky_mall@126.com
+## 加入我们
+    为方便大家交流和学习，请各位小伙伴加入QQ交流群：
+	   *区块链交易所技术知识交流群【QQ群：735446452】
+## 开源许可协议
+    Apache
+---
+
+## 捐赠支持
+
+## Giving support
 
 BTC：3AU5QZb591Vs63SAzdhebBZpQ6qj9GVCNm
 
